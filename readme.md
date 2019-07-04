@@ -43,6 +43,7 @@ them ready-made into your OpenCart webshop with this powerful plugin.
 - Giropay
 - Klarna Pay Later
 - Klarna Slice It
+- Przelewy24
 
 Please go to the signup page to create a new Mollie account and start receiving payments in
 a couple of minutes. Contact info@mollie.com if you have any questions or comments about

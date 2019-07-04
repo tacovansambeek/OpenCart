@@ -2,6 +2,16 @@
 
 # Changelog #
 
+#### Changes in release 9.0.6
+  + Added Przelewy24 support.
+  + Added additional check on order_id in webhook.
+  + Update cleanup function to include cleanup for < 9.x modules.
+  + Remove Bitcoin.
+  + Fix double payment bug.
+  + Fix voucher support.
+  + Fix Amount invalid bug for all currencies.
+  + Fix non-integer qty support.
+
 #### Changes in release 9.0.5
   + Fixed notice error when shipping method is used that isn't linked to a tax class.
   + Fixed update functionality.
